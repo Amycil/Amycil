@@ -5,6 +5,9 @@
 - 📫 How to reach me; email: amyank3@gamil.com
 
 
+![image](https://user-images.githubusercontent.com/99664943/182032184-e4689745-d24e-4452-b606-8fdeed2ac3fb.png)
+
+
 <!---
 Amycil/Amycil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
